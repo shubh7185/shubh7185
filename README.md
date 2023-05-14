@@ -1,16 +1,149 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubh Agrawal</h1>
+<h3 align="center">A passionate software developer from India</h3>
+<img
+  align="right"
+  alt="coding"
+  width="400"
+  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
+/>
 
-<!--
-**shubh7185/shubh7185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=shubh7185&label=Profile%20views&color=0e75b6&style=flat"
+    alt="shubh7185"
+  />
+</p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Maching Learning** - 📫 How to reach me
+**shubh7185@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/shubh agrawal" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="shubh agrawal"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="30"
+    width="42"
+    alt="javascript logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    height="30"
+    width="42"
+    alt="html5 logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    height="30"
+    width="42"
+    alt="css3 logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    height="30"
+    width="42"
+    alt="python logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    height="30"
+    width="42"
+    alt="cplusplus logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    height="30"
+    width="42"
+    alt="java logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    height="30"
+    width="42"
+    alt="pandas logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+    height="30"
+    width="42"
+    alt="flask logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    height="30"
+    width="42"
+    alt="github logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    height="30"
+    width="42"
+    alt="git logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+    height="30"
+    width="42"
+    alt="postgresql logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+    height="30"
+    width="42"
+    alt="numpy logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+    height="30"
+    width="42"
+    alt="jupyter logo"
+  />
+  <img
+    src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+    height="30"
+    width="42"
+    alt="open cv"
+  />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+    height="30"
+    width="42"
+    alt="Scikit_learn"
+  />
+  <img
+    src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+    height="30"
+    width="42"
+    alt="seaborn"
+  />
+</p>
+
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh7185&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2"
+    alt="shubh7185"
+  />
+</p>
+
+<img alt="Shubh Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Shubh&show_icons=true&count_private=true&theme=dark&bg_color=151515" height=165 /></a>
+
+<p>
+  <img
+    align="center"
+    src="https://streak-stats.demolab.com?user=shubh7185&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+    alt="shubh7185"
+  />
+</p>
