@@ -137,8 +137,8 @@
   />
 </p>
 
-<img alt="Shubh Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Shubh&show_icons=true&count_private=true&theme=dark&bg_color=151515" height=165 /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh7185&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%F0%9F%93%8A%20Github%20Stats" height="165" />
+
 
 <p>
   <img
