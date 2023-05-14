@@ -15,11 +15,11 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Maching Learning** - 📫 How to reach me
-**shubh7185@gmail.com**
-
+- 🌱 I’m currently learning **Maching Learning**  
+- 📫 How to reach m**shubh7185@gmail.com**
+e 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
   <a href="https://linkedin.com/in/shubh agrawal" target="blank"
     ><img
       align="center"
@@ -28,7 +28,13 @@
       height="30"
       width="40"
   /></a>
-</p>
+</p> -->
+
+<div align="left">
+  <a href="https://linkedin.com/in/shubh agrawal" target="blank"
+    >
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
