@@ -15,7 +15,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Maching Learning**  
+- 🌱 I’m currently learning **Deep Learning**  
 - 📫 How to reach m**shubh7185@gmail.com**
 e 
 <h3 align="left">Connect with me:</h3>
