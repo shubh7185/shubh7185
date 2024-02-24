@@ -35,7 +35,96 @@
     width="42"
     alt="javascript logo"
   />
-  <!-- Add other language and tool icons here -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    height="30"
+    width="42"
+    alt="html5 logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    height="30"
+    width="42"
+    alt="css3 logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    height="30"
+    width="42"
+    alt="python logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    height="30"
+    width="42"
+    alt="cplusplus logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    height="30"
+    width="42"
+    alt="java logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    height="30"
+    width="42"
+    alt="pandas logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+    height="30"
+    width="42"
+    alt="flask logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    height="30"
+    width="42"
+    alt="github logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    height="30"
+    width="42"
+    alt="git logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+    height="30"
+    width="42"
+    alt="postgresql logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+    height="30"
+    width="42"
+    alt="numpy logo"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+    height="30"
+    width="42"
+    alt="jupyter logo"
+  />
+  <img
+    src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+    height="30"
+    width="42"
+    alt="open cv"
+  />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+    height="30"
+    width="42"
+    alt="Scikit_learn"
+  />
+  <img
+    src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+    height="30"
+    width="42"
+    alt="seaborn"
+  />
 </p>
 
 <p>
@@ -46,7 +135,7 @@
   />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubh7185&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%F0%9F%93%8A%20Github%20Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=shubh7185&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%F0%9F%93%8A%20Github%20Stats%20(A)" height="165" />
 
 <p>
   <img
@@ -55,3 +144,4 @@
     alt="shubh7185"
   />
 </p>
+
