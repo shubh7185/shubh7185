@@ -16,18 +16,18 @@
 </p>
 
 - 🌱 I’m currently learning **Deep Learning**  
-- 📫 How to reach me: **shubh7185@gmail.com**
+- 📫 How to reach me**shubh7185@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/shubh-agrawal-15a113221/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
-  </a>
+  <a href="https://linkedin.com/in/shubh agrawal" target="blank"
+    >
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
+    
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
@@ -135,7 +135,8 @@
   />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubh7185&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%F0%9F%93%8A%20Github%20Stats%20(A)" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh7185&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%F0%9F%93%8A%20Github%20Stats" height="165" />
+
 
 <p>
   <img
@@ -144,4 +145,3 @@
     alt="shubh7185"
   />
 </p>
-
