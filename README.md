@@ -16,8 +16,8 @@
 </p>
 
 - 🌱 I’m currently learning **Deep Learning**  
-- 📫 How to reach m**shubh7185@gmail.com**
-e 
+- 📫 How to reach me**shubh7185@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
   <a href="https://linkedin.com/in/shubh agrawal" target="blank"
