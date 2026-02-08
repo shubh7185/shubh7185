@@ -44,10 +44,7 @@
 
   <!-- Automation Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" width="42" alt="selenium logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Cucumber_Logo.png" height="30" width="42" alt="cucumber logo" />
   <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="30" width="42" alt="maven logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/TestNG_Logo.png" height="30" width="42" alt="testng logo" />
-  <img src="https://avatars.githubusercontent.com/u/32337103?s=200&v=4" height="30" width="42" alt="restassured logo" />
 
   <!-- DevOps & CI/CD -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" width="42" alt="jenkins logo" />
