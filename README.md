@@ -70,7 +70,7 @@
   />
 </p> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubh7185&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%F0%9F%93%8A%20GitHub%20Stats%20(A)" height="165" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shubh7185&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%F0%9F%93%8A%20GitHub%20Stats%20(A)" height="165" /> -->
 
 <p>
   <img
